@@ -2,7 +2,7 @@ CAC
 ======
 
 CAC is a clustering based framework for classification.
-
+![](assets/cac.png)
 
 Training Phase:
 ===============
